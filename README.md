@@ -8,3 +8,4 @@ Java programs implementing different concepts of compiler designing like lexical
 - The lexical analyser also recognizes symbols (or identifiers) and literals (or constants) and generates tokens for them as well. 
 - If the lexical analyzer finds a token invalid, it generates an error. For example, in this program, an error will be generated for each invalid symbol declaration.
 - An instance of how the program works is as shown below:
+![alt text](https://github.com/shamilee05/Compiler-Designing/Lexical Analyzer/Lexical_1.png)
