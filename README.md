@@ -12,9 +12,14 @@ Java programs implementing different concepts of compiler designing like lexical
 Tokens are generated for each of the valid lexemes present in the C program in the file 'test.txt' and further all the different tables are shown as well:
 
 <p align="center">
+  <img src="https://github.com/shamilee05/Compiler-Designing/blob/master/Lexical%20Analyzer/test.png">
+</p>
+
+<p align="center">
   <img src="https://github.com/shamilee05/Compiler-Designing/blob/master/Lexical%20Analyzer/Lexical_1.png">
 </p>
 
+Here an error gets generated as an incorrect symbol declaration is made as '2i' as seen in 'test.txt':
 <p align="center">
   <img src="https://github.com/shamilee05/Compiler-Designing/blob/master/Lexical%20Analyzer/Lexical_2.png">
 </p>
