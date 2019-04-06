@@ -24,6 +24,8 @@ Here an error gets generated as an incorrect symbol declaration is made as '2i' 
   <img src="https://github.com/shamilee05/Compiler-Designing/blob/master/Lexical%20Analyzer/Lexical_2.png">
 </p>
 
+<br>
+
 ### 2) RDP or Recursive Descent Parser(a form of Top-Down Parser): ###
 - Parsing forms a part of Syntax Analysis that comes after Lexical Analysis. 
 - A Syntax Analyzer or Parser takes the input from a lexical analyzer in the form of token streams. The parser analyzes the source code (token stream) against a set of production rules to detect any errors in the code. The output of this phase is a **parse tree**.
