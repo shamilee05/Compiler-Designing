@@ -1,0 +1,8 @@
+#include<stdio.h>
+void main()
+{
+ int 2i,j;
+ i=i+1;
+ j=j+2;
+ printf("Hello");
+}
